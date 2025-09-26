@@ -1,0 +1,14 @@
+Well done on Q1 Q2 however make sure to put different questions in different files.
+
+-----------------------------
+Well done on Q3 Q6 Q7 Q8 
+
+-----------------------------
+Well done on Q4 but it is in a seperate folder please make sure all the questions for the assignment are in a folder labeled 
+the assignment number and all questions answered from that are there for correction and your own notes to look back on.
+
+-----------------------------
+Q5 missing from github
+
+-----------------------------
+Q9 asks for a specific output, please ensure your output is what the question asks 

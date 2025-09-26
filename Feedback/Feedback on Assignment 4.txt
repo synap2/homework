@@ -1,0 +1,13 @@
+Well done on Q1 Q5
+
+---------------------------
+Q2 Q3 Q4 You used range(num), which only goes up to num-1. That means the final number isn’t included in the sum.
+You also started at 0, which isn’t needed. Use range(1, num+1) so it starts at 1 and includes the last number.
+
+---------------------------
+Q9 At the moment you’re just printing multiples of the number (e.g. number * i).Factorial means multiplying all 
+numbers from 1 up to that number together. You need to keep a running total with factorial =factoral* i inside the loop, 
+not print(i*number).
+
+---------------------------
+Q6 Q7 missing from github please upload asap.
